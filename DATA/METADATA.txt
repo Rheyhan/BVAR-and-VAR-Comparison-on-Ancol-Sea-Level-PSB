@@ -1,0 +1,14 @@
+ID WMO	:  96741
+Nama Stasiun	:  Stasiun Meteorologi Maritim Tanjung Priok
+Lintang	:  -6.10781
+Bujur	:  106.88053
+Elevasi	:  3
+
+* ff_avg: Kecepatan angin rata-rata (m/s) [https://nhess.copernicus.org/articles/22/813/2022]
+* Tavg: Temperatur rata-rata (°C) [https://www.sciencedirect.com/science/article/pii/S1018363921001136]
+* RR: Curah hujan (mm) [https://www.sciencedirect.com/science/article/abs/pii/S0048969717328814 [Berbayar, cari yang gratis]]
+
+====================================================================================
+
+P.A. Marina Ancol
+* Sea level (cm)
