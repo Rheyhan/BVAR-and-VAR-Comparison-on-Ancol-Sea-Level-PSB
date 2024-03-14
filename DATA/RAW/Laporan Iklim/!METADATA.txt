@@ -4,7 +4,7 @@ Lintang	:  -6.10781
 Bujur	:  106.88053
 Elevasi	:  3
 
-
+	
 Keterangan :
 8888: data tidak terukur
 9999: Tidak Ada Data (tidak dilakukan pengukuran)
