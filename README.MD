@@ -2,4 +2,4 @@
 
 this respitory's subjected for archive purpose for Pengantaran Statistika Bayesian (PSB).
 
-idk, will add text on here, i think.
+idk, will add further description on `README.MD`, i think.
